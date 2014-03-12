@@ -1,0 +1,5 @@
+Use this repository as a git submodule in your LaTeX document.
+
+Requirements:
+    - Adobe Open Source Pro font
+    - texlive and several extra packets (using a full install on Debian works)
