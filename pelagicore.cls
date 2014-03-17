@@ -11,6 +11,7 @@
 \LoadClass[11pt]{article}
 \usepackage{enumitem}
 \usepackage[hyphens]{url}
+\usepackage{parskip}
 
 % Page margin settings
 \usepackage[
